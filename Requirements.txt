@@ -1,21 +1,21 @@
-**# Core Libraries**
-pandas
-numpy
-matplotlib
-seaborn
+# Core Libraries
+Pandas
+Numpy
+Matplotlib
+Seaborn
 
 # NLP and Text Processing
-nltk
-wordcloud
-collections
-leia-br  # LeIA library for brazilian sentiment analysis
+NLTK
+Wordcloud
+Collections
+Leia-br  # LeIA library for brazilian sentiment analysis
 
 # Machine Learning Libraries
-scikit-learn
-xgboost
-lightgbm
-catboost
+Scikit-Learn
+Xgboost
+Lightgbm
+Catboost
 
 # Visualization Enhancements
-matplotlib-inline  # Needed if running in Jupyter to ensure %matplotlib inline works correctly
+Matplotlib-inline  # Needed if running in Jupyter to ensure %matplotlib inline works correctly
 
